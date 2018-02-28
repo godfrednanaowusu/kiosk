@@ -21,6 +21,6 @@ body { margin:0; padding:0; background:#fff; font-family: focoregular;}
 #homepagediv { position: fixed; top:0; right:0; bottom:0; left:0; text-align: center; color:#ff021f; padding: 20px; 
     background: linear-gradient(135deg, rgba(255, 255, 255, 0.98), rgba(255, 255, 255, 0.87)), url(../images/happywoman.jpg); background-size: cover; background-position: center top; }
 #hompagebottomdiv { position: absolute; bottom:0; left:0; right:0; padding:15px; border-top:1px solid #ff021f; color:#ff021f; max-width: 1140px; margin:0 auto; text-align: center;}
-.roundbtn { background:none; color:#ff021f; border-radius:50px; border:1px solid #ff021f; margin:0 20px; padding:10px 50px; }
+.roundbtn { background:none; color:#ff021f; display:inline-block; border-radius:50px; border:1px solid #ff021f; margin:0 20px; padding:10px 50px; }
 .roundbtn:hover { background:#ff021f; color:#fff!important; }
 .roundbtn:active { background:#ff021f; color:#fff!important; }
